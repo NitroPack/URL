@@ -2,7 +2,8 @@
     "name": "nitropack/url",
     "type": "library",
     "description": "URL manipulation library",
-    "keywords": ["php", "url", "manipulation", "library"],
+    "license": "BSD-2-Clause",
+    "keywords": ["php", "url", "manipulation", "library", "nitropack"],
     "authors": [
         {"name": "NitroPack"}
     ],
