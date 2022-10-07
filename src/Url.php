@@ -1,5 +1,6 @@
 <?php
-namespace NitroPack;
+
+namespace NitroPack\Url;
 
 class Url {
     private $url;
